@@ -1,0 +1,5 @@
+# Exclude testing and visualization tools
+tools
+
+*.pdf
+
