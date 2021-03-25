@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7c97e61-0b93-4c27-8053-b5126b987488" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XYnNrHt7DAknLmYMpuryWnK4eZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HackAssembler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackAssembler" />
+      <module name="HackAssembler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="HackAssembler" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="HackAssembler" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HackAssembler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7c97e61-0b93-4c27-8053-b5126b987488" name="Default Changelist" comment="" />
+      <created>1581231859164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581231859164</updated>
+      <workItem from="1581231861472" duration="33906000" />
+      <workItem from="1581758281749" duration="6381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="719" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581391667252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581391667252" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1581334185027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581334185027" />
+    <state x="1288" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581758313806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1288" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581758313806" />
+    <state x="484" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581324343822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="484" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581324343822" />
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1581322474647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581322474647" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1581419930213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581419930212" />
+    <state width="1877" height="331" key="GridCell.Tab.0.bottom" timestamp="1581420112893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581420112893" />
+    <state width="1877" height="331" key="GridCell.Tab.0.center" timestamp="1581420112892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581420112892" />
+    <state width="1877" height="331" key="GridCell.Tab.0.left" timestamp="1581420112892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581420112892" />
+    <state width="1877" height="331" key="GridCell.Tab.0.right" timestamp="1581420112892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="331" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581420112892" />
+    <state x="676" y="234" width="567" height="568" key="RefactorJ.ExtractClass" timestamp="1581322257663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="234" width="567" height="568" key="RefactorJ.ExtractClass/0.0.1920.1040@0.0.1920.1040" timestamp="1581322257663" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1581419974461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581419974461" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1581231862412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581231862412" />
+    <state x="354" y="0" width="720" height="1035" key="dock-window-1" timestamp="1581758521712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="354" y="0" width="720" height="1035" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1581758521712" />
+    <state x="488" y="196" width="720" height="1035" key="dock-window-2" timestamp="1581758521712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="488" y="196" width="720" height="1035" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1581758521712" />
+    <state x="390" y="61" width="720" height="1035" key="dock-window-3" timestamp="1581758521712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="390" y="61" width="720" height="1035" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1581758521712" />
+    <state x="342" y="141" key="new project wizard" timestamp="1581419924846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581419924846" />
+    <state x="702" y="140" key="refactoring.ChangeSignatureDialog" timestamp="1581322438977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="140" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581322438977" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1581420069390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581420069390" />
+  </component>
+</project>
