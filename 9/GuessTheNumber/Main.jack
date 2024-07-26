@@ -1,0 +1,41 @@
+class Main {
+    function void main() {
+      var int attempts;
+      var int input;
+      var int low, mid, high;
+      let attempts = 1;
+      let high = 100;
+      do Output.printString("Choose a number from 1 to 100, I will guess it.");
+      do Output.println();
+      do Output.printString("Enter 0 if my guess is correct, -1 if low and 1 if high");
+      do Output.println();
+      do Output.println();
+      while (attempts < 7) {
+        do Output.printString("Attempt#");
+        do Output.printInt(attempts);
+        do Output.printString(" :");
+        let mid = (low + high) / 2;
+        do Output.printInt(mid);
+        do Output.println();
+        let input = Keyboard.readInt("Did I get it? ");
+        if (input = 0) {
+          do Output.printString("YAAAAY GOT IT in ");
+          do Output.printInt(attempts);
+          do Output.printString(" attempts!");
+          return;
+        }
+
+        if (input = -1) {
+          let low = mid + 1;
+        }
+
+        if (input = 1) {
+          let high = mid - 1;
+        }
+        
+        let attempts = attempts + 1;
+      }
+      do Output.printString("Shit!");
+      return;
+    }
+}
