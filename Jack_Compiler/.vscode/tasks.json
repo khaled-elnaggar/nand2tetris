@@ -7,11 +7,13 @@
       "args": [
         "-fdiagnostics-color=always",
         "-g",
+        "${workspaceFolder}/symbol_table.c",
         "${workspaceFolder}/computation_engine.c",
-        "${workspaceFolder}/parser.c",
+        "${workspaceFolder}/vm_writer.c",
         "${workspaceFolder}/tokinizer.c",
+        "${workspaceFolder}/jack_compiler.c",
         "-o",
-        "${workspaceFolder}/ComputationEngine"
+        "${workspaceFolder}/JackCompiler"
       ],
       "options": {
         "cwd": "${workspaceFolder}"

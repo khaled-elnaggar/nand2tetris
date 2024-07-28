@@ -9,8 +9,8 @@
       "name": "(gdb) Run",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/ComputationEngine",
-      "args": ["../10/ExpressionLessSquare"],
+      "program": "${workspaceFolder}/JackCompiler",
+      "args": ["../11/Square/SquareGame.jack"],
       "cwd": "${workspaceFolder}",
       "externalConsole": false,
       "linux": {

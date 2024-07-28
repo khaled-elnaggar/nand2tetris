@@ -3,7 +3,11 @@
     "string.h": "c",
     "tokinizer.h": "c",
     "type_traits": "c",
-    "parser.h": "c"
+    "parser.h": "c",
+    "symbol_table.h": "c",
+    "computation_engine.h": "c",
+    "vm_writer.h": "c",
+    "stdlib.h": "c"
   },
   
   "C_CPP.errorSquiggles": "enabled"

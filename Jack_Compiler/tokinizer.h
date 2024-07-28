@@ -26,5 +26,5 @@ void createToken(Token **tokens, int tokenIndex, char tokenBuffer[200], int toke
 TokenType getTokenType(char *token);
 void printTokens(Token **tokens, int size, char *inputPath);
 void freeTokensList(Token **tokens, int size);
-
+int getTokenNumericValue();
 #endif

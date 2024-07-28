@@ -4,6 +4,8 @@
 
 #include "tokinizer.h"
 
+static int tokenNumericValue;
+
 char *tokenTypeString[] = {
     "keyword", "symbol", "identifier", "integerConstant", "stringConstant"};
 
@@ -144,7 +146,7 @@ TokenType getTokenType(char *token)
   }
 
   char *endptr;
-  strtol(token, &endptr, 10);
+  tokenNumericValue = strtol(token, &endptr, 10);
   if (*endptr == '\0')
   {
     return INT_CONST;
@@ -200,7 +202,15 @@ void freeTokensList(Token **tokens, int size)
   for (int i = 0; i < size; i++)
   {
     free(tokens[i]->value);
+    tokens[i]->value = NULL;
     free(tokens[i]);
+    tokens[i] = NULL;
   }
   free(tokens);
+  tokens = NULL;
+}
+
+int getTokenNumericValue()
+{
+  return tokenNumericValue;
 }

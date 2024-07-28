@@ -1,6 +1,9 @@
-#ifndef PARSER_H_
-#define PARSER_H_
+#ifndef COMPILATION_ENGINE_H_
+#define COMPILATION_ENGINE_H_
+
 #include "tokinizer.h"
+#include "symbol_table.h"
+
 
 void compileClass(Token **tokens, char *outputPath);
 void process(char *expectedKeyword, TokenType expectedType);
@@ -9,11 +12,11 @@ void printError(char *message);
 void increaseIndentation();
 void decreaseIndentation();
 void compileClassVarDec();
-void handleClassVar();
+void handleClassVar(VariableKind kind);
 void compileSubroutineDec();
-void handleSubroutineDec();
-void compileParameterList();
-void compileSubroutineBody();
+void handleSubroutineDec(SubroutineKind kind);
+void compileParameterList(SubroutineKind kind);
+void compileSubroutineBody(char *subroutineName, SubroutineKind kind);
 void compileVarDec();
 void processCurrentToken();
 void compileStatements();
@@ -25,7 +28,7 @@ void compileReturnStatement();
 void compileExpression();
 void handleInternalStatements();
 void compileSubroutineCall();
-void compileExpressionList();
+int compileExpressionList();
 void compileTerm();
 
 int isCurrentTokenOperation();
